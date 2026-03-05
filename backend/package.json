@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "You are required to create a simple web application that allows users to submit a monetary transaction. The application should consist of a front-end built with React and a back-end using Node.js and Express. The application should allow users to input the transaction amount and a description, and upon submission, it should display the transaction details on the front-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "express": "^5.2.1",
+    "jest": "^30.2.0"
+  }
+}
